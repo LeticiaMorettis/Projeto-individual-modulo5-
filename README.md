@@ -14,5 +14,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 
 ## Execução do trabalho:
-cor azul.
+lista de propriedades do css, na cor azul e em ordem alfabética.
+para executar insira node app.js no terminal.
+
 
